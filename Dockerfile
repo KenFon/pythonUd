@@ -1,4 +1,4 @@
-FROM python:3.8.2-alpine
+FROM python:3.7.7-alpine
 MAINTAINER Auryc App Developper
 
 ENV PYTHONUNBUFFERED 1
